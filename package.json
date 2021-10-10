@@ -1,0 +1,18 @@
+{
+  "name": "pathfinding_algorithms",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon server.js",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "watch": "C:\Users\Shubham Nagaria\Desktop\Pathfinding-Visualizer\public\\browser\\board.js -o C:\Users\Shubham Nagaria\Desktop\Pathfinding-Visualizer\public\\browser\\bundle.js"
+  },
+  "author": "Shubham Nagaria",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.13",
+    "package.json": "^2.0.1"
+  }
+}
